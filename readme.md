@@ -1,4 +1,4 @@
-YelpCamp is a Node.js web application with RESTful routing project
+Winery web application is a Node.js web application with RESTful routing project
 
 <h2>Features</h2>
 
